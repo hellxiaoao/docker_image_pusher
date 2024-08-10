@@ -7,4 +7,5 @@ xhofe/alist:latest
 p3terx/aria2-pro:latest
 p3terx/ariang:latest
 onlyoffice/documentserver:latest
-xiaoyaliu/alist
+xiaoyaliu/alist:latest
+zerotier/zerotier:latest
